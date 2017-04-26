@@ -11,7 +11,7 @@ We invite contributors from academia, practice, activism and any other communiti
 
 
 ## Important Dates
-#### tbd, 2017: [submission](/participate) deadline
+#### tbd, 2017: submission deadline
 #### tbd, 2017: notification of acceptance / program update
 #### September !!DATE!!, 2017: Workshop at Mensch und Computer
 

@@ -1,0 +1,41 @@
+site_name: 'Academic practices in (community) innovation and (digital) fabrication'
+repo_url: 'https://github.com/FabLabSiegen/fab101-2017-muc-workshop'
+repo_name: 'fablabsiegen:muc-ws'
+site_favicon: 'images/favicon-32x32.png'
+
+pages:
+    - About: 'index.md'
+    - Structure : 'structure.md'
+    - Organizers: 'organizers.md'
+    - Participate: 'participate.md'
+    - Proceedings: 'proceedings.md'
+    - Imprint: 'imprint.md'
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc(permalink=true)
+  - footnotes
+
+theme_dir: 'theme/material'
+#theme: 'material'
+
+extra_css:
+    - css/footer.css
+    - css/extra.css
+    
+    
+extra:
+  logo: 'images/logo.png'
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Open Sans'
+    code: 'Inconsolata'
+#  social:
+#    - type: 'twitter'
+#      link: 'https://twitter.com/cscwsiegen'
+#    - type: 'facebook'
+#      link: 'http://facebook.com/fablabsiegen'

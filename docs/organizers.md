@@ -1,4 +1,4 @@
-## Oliver Stickel <img class="profilpicture"  src="/images/os.jpg">
+## Oliver Stickel <img class="profilpicture"  src="./images/os.jpg">
 University of Siegen | [Website](http://www.cscw.uni-siegen.de/team/stickel/) | [Mail](mailto:oliver.stickel@uni-siegen.de)
 
 Oliver is founder and coordinator of the university’s [Fab Lab](http://fablab-siegen.de/), researcher, general project instigator and lecturer in HCI- and Maker-methods. He has published on digital fabrication, field studies involving 3D printing in Palestine, regional innovation communities and agile methods.
@@ -18,7 +18,7 @@ University of Siegen | [Website](http://www.cscw.uni-siegen.de/team/giatagantzid
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
 
 
-## Marios Mouratidis  <img class="profilpicture" src="/images/PersonPlaceholder.png">
+## Marios Mouratidis  <img class="profilpicture" src="./images/PersonPlaceholder.png">
 University of Siegen | [Website]() | [Mail](mailto:marios.mouratidis@uni-siegen.de)
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 

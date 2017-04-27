@@ -13,7 +13,7 @@ We invite contributors from academia, practice, activism and any other communiti
 ## Important Dates
 #### June 16, 2017: [submission](/participate) deadline
 #### June 23, 2017: notification of acceptance / program update
-#### July 07, 2017: Camera ready submission deadline
+#### July 07, 2017: deadline for camera ready submission
 #### September 10, 2017: Workshop at Mensch und Computer
 
 

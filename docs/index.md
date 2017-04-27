@@ -1,6 +1,6 @@
 # Academic practices in (community) innovation and (digital) fabrication
 
-> *Workshop at the [Mensch und Computer](http://muc2017.mensch-und-computer.de/) 2017 conference in Regensburg*
+> *Workshop at the [Mensch und Computer](http://muc2017.mensch-und-computer.de/) 2017 conference in Regensburg, Germany*
 
 </br>
 ![3D printing workshop](/images/3dp-1.jpg)
@@ -14,8 +14,8 @@ This workshop at [MuC 2017 conference](http://muc2017.mensch-und-computer.de/) i
 ## Important Dates
 #### June 16, 2017: [submission](/participate) deadline
 #### June 23, 2017: notification of acceptance / program update
-#### July 07, 2017: Camera ready submission deadline
-#### September 10, 2017: Workshop at Mensch und Computer
+#### July 07, 2017: deadline for camera ready submission
+#### September 10, 2017: workshop at Mensch und Computer
 
 ## Workshop description as PDF
 

@@ -25,6 +25,6 @@ The full [proposal for the Workshop at MuC in PDF form]() contains most of the i
 
 ----
 
-__<a  href="" target="_blank" style=" display:block; width: 100%; text-align: center; font-size: 3rem;">Upload your contribution here</a>__
+__<a  href="https://script.google.com/macros/s/AKfycbwoTp4OFm2RB5BaLxw8E7CBn1W6mweqH_963oPWJDLIAGNtFjPt/exec" target="_blank" style=" display:block; width: 100%; text-align: center; font-size: 3rem;">Upload your contribution here</a>__
 
 ----

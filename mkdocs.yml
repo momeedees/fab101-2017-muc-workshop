@@ -29,8 +29,8 @@ extra_css:
 extra:
   logo: 'images/logo.png'
   palette:
-    primary: 'indigo'
-    accent: 'light blue'
+    primary: 'green'
+    accent: 'deep orange'
   font:
     text: 'Open Sans'
     code: 'Inconsolata'

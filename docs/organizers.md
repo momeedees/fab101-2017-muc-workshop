@@ -8,7 +8,7 @@ Oliver is founder and coordinator of the university’s [Fab Lab](http://fablab-
 ## Melanie Stilz  <img class="profilpicture" src="https://www.technik.tu-berlin.de/fileadmin/_processed_/4/45/csm_M.Stilz_37e66b15ce.jpg">
 TU Berlin | [Website](https://www.technik.tu-berlin.de/menue/team/dr_melanie_stilz/) | [Mail](mailto:Melanie.Stilz@tu-berlin.de)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+Melanie has a background in Anthropology and Computer Science and a PhD in Communications, researching on the intersection of digital technologies, communication studies, STS and international development. Since 2013 Melanie is a research associate at TU Berlin with a teaching a research interest in electronics, digital labs, ICTs and education. Previous cooperations include [One Laptop Per Child](http://one.laptop.org/) (OLPC) Afghanistan, Ustad Mobile (Mobile Literacy), GIZ, MICT, Parliamentwatch, [GIG](http://www.globalinnovationgathering.com/), KfW, DAAD and others. She is also co-founder of [Konnektiv](https://konnektiv.de/), Agency for Education and Development und GIG e.V. Melanie is a Junior Fellow at the [German Informatics Society](https://www.gi.de/) (GI). 
 
 
 

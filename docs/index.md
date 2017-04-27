@@ -12,9 +12,10 @@
 This workshop at [MuC 2017 conference](http://muc2017.mensch-und-computer.de/) is intended to illustrate cases of Fab Labs, Makerspaces, Urban Labs and similar hubs at or in cooperation with academic institutions. Its goal is to provide a forum for discussing how such communities and spaces influence and are influenced by teaching, learning, research, outreach and dissemination as well as on challenges and perspectives in establishing, running and integrating such communities with other aspects of academic work. Interested in [participating](/participate)?
 
 ## Important Dates
-#### tbd, 2017: [submission](/participate) deadline
-#### tbd, 2017: notification of acceptance / program update
-#### September !!DATE!!, 2017: Workshop at Mensch und Computer
+#### June 16, 2017: [submission](/participate) deadline
+#### June 23, 2017: notification of acceptance / program update
+#### July 07, 2017: Camera ready submission deadline
+#### September 10, 2017: Workshop at Mensch und Computer
 
 ## Workshop description as PDF
 

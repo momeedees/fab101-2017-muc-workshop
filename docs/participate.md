@@ -11,11 +11,11 @@ We invite contributors from academia, practice, activism and any other communiti
 
 
 ## Important Dates
-#### tbd, 2017: submission deadline
-#### tbd, 2017: notification of acceptance / program update
-#### September !!DATE!!, 2017: Workshop at Mensch und Computer
+#### June 16, 2017: [submission](/participate) deadline
+#### June 23, 2017: notification of acceptance / program update
+#### July 07, 2017: Camera ready submission deadline
+#### September 10, 2017: Workshop at Mensch und Computer
 
-The actual workshop date will be the !!DATE!! or !!DATE!! and is currently still in discussion.
 
 ## Original workshop proposal
 

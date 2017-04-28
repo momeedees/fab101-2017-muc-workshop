@@ -1,4 +1,4 @@
-The actual program will be based on participant submission. The draft program below is based on the thematic suggestions from the call for contributions and will be updated after all submissions have been reviewed (in !!DATE!! 2017):
+The actual program will be based on participant submission. The draft program below is based on the thematic suggestions from the call for contributions and will be updated after all submissions have been reviewed (in June 2017):
 
 ### Introductory activity
 Ideally hands-on, involving artifacts and maybe making something. Will be decided depending on group size and types of contribution.  

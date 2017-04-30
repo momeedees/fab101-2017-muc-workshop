@@ -18,10 +18,10 @@ University of Siegen | [Website](http://www.cscw.uni-siegen.de/team/giatagantzid
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
 
 
-## Marios Mouratidis  <img class="profilpicture" src="/images/PersonPlaceholder.png">
+## Marios Mouratidis  <img class="profilpicture" src="/images/mm.png">
 University of Siegen | [Website](http://empunkt.com/) | [Mail](mailto:marios.mouratidis@uni-siegen.de)
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
+Marios is a freelance media designer (web, print, mobile), entrepreneur and senior student of HCI in Siegen, with an academic background in Cultural and Media Studies and Linguistics. Currently he is the project coordinator of the intercultural academic research exchange [YALLAH](www.yallah.exchange) (You All Are Hackers), Computer Club Coordinator of a come_IN Computerclub in the refugee camp Al’Amari located close to the city center of Ramallah, Palestine. He has published on Community Informatics in political unstable situations, a field study involving upcycling and making activities in Germany and Palestine. Amongst his research interests is also 3D printing, user experience design, usability and visual communication.   
 
 
 ## Volkmar Pipek <img class="profilpicture" src="http://www.cscw.uni-siegen.de/wp-content/uploads/2016/05/volkmar-pipek-sm-1-150x150.jpg">

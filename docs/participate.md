@@ -1,4 +1,5 @@
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This workshop is intended to illustrate cases of Fab Labs, Makerspaces, Urban Labs and similar hubs at or in cooperation with academic institutions. Its goal is to provide a forum for discussing how such communities and spaces influence and are influenced by teaching, learning, research, outreach and dissemination as well as on challenges and perspectives in establishing, running and integrating such communities with other aspects of academic work. 
+
 
 ## Contribution formats
 
@@ -6,7 +7,7 @@ We invite contributors from academia, practice, activism and any other communiti
 
 * **Position Papers** outlining positions, stances and perspectives on community innovation and (digital) fabrication in and with academia. 
 * **Case studies** describing interesting, novel, provocative or otherwise relevant cases of community innovation and (digital) fabrication and academia. 
-* **Free-form contributions** Your case is best presented in VR, milled in wood, expressed by art or 3D printed? We welcome creative contributions. A 150-word abstract and one photo, sketch or other publishable media is required. 
+* **Free-form contributions** Your case is best presented in VR, milled in wood, expressed by art or 3D printed? We welcome creative contributions. A 150-word abstract and at least one photo, sketch, storyboard or other publishable media is required. 
 
 
 
